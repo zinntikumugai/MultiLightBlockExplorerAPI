@@ -1,4 +1,7 @@
 # MultiLightBlockExplorerAPI
+[![GitHub license](https://img.shields.io/github/license/zinntikumugai/MultiLightBlockExplorerAPI.svg)](https://github.com/zinntikumugai/MultiLightBlockExplorerAPI/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/zinntikumugai/MultiLightBlockExplorerAPI.svg)](https://github.com/zinntikumugai/MultiLightBlockExplorerAPI)
+[![GitHub top language](https://img.shields.io/github/languages/top/zinntikumugai/MultiLightBlockExplorerAPI.svg)](https://github.com/zinntikumugai/MultiLightBlockExplorerAPI)
 
 namuyan氏提供の[MultiLightBlockExplorer](http://namuyan.dip.jp/MultiLightBlockExplorer/)を使いやすくするためを目的としたAPIです。
 
