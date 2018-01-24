@@ -9,7 +9,7 @@ namuyan氏提供の[MultiLightBlockExplorer](http://namuyan.dip.jp/MultiLightBlo
 # 使い方
 ```
 require_once __DIR__ .'/MultiLightBlockExplorerAPI.php';
-$MLBE = new MultiLightBlockExplorerAPI('BitZeny');  //多少リファレンス道理でなくても動くようになっています。
+$MLBE = new MultiLightBlockExplorerAPI('BitZeny');  //多少リファレンス通りでなくても動くようになっています。(リファレンスでは"zeny")
 echo $MLBE->getBlock('000000003253d1aafab7f245994e0268409a61964fc05b43feb99e8067b87e9f');
 ```
 そのほかは、`Examples.php`を参考にしてください。  
