@@ -43,3 +43,11 @@ echo $MLBE->getBlock('000000003253d1aafab7f245994e0268409a61964fc05b43feb99e8067
 | APIステータス取得() | `/api/status?q=getDifficulty` | getAPIGetDifficulty() |
 | APIステータス取得(上記全て) | (独自追加) | getAPIStatus() |
 | Coind同期状態取得 | `/api/sync` | getCoindSync() |
+
+# Donation
+_BitZeny_
+`Zi7ryQ9xJ9Qxu4jHU5tJNYA4rdzSs2Lmgk`  
+_MonaCoin_
+`MTAMPypAxdaMHfRQRHrZCVhkp3JqhkDzri`  
+_BitCoin_
+`1FTx4P9tuko3u8cHnAM23aeEvx7MLpNhwW`
