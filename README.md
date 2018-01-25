@@ -1,12 +1,14 @@
 # MultiLightBlockExplorer Library
+[![Build Status](https://travis-ci.org/zinntikumugai/MultiLightBlockExplorerAPI.svg?branch=master)](https://travis-ci.org/zinntikumugai/MultiLightBlockExplorerAPI)
 [![GitHub license](https://img.shields.io/github/license/zinntikumugai/MultiLightBlockExplorerAPI.svg)](https://github.com/zinntikumugai/MultiLightBlockExplorerAPI/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/zinntikumugai/MultiLightBlockExplorerAPI.svg)](https://github.com/zinntikumugai/MultiLightBlockExplorerAPI)
 [![GitHub top language](https://img.shields.io/github/languages/top/zinntikumugai/MultiLightBlockExplorerAPI.svg)](https://github.com/zinntikumugai/MultiLightBlockExplorerAPI)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/zinntikumugai/multilightblockexplorer-api.svg)](https://packagist.org/packages/zinntikumugai/multilightblockexplorer-api)
 
 namuyan氏提供の[MultiLightBlockExplorer](http://namuyan.dip.jp/MultiLightBlockExplorer/)を使いやすくするためを目的としたAPIライブラリです。  
 **途中で名称を変えたため、プログラム上では`MultiLightBlockExplorerAPI`となっています。**
 # 動作条件
-- PHP 7.x
+- PHP 7.1.x
     - curl
 
 # 使い方
