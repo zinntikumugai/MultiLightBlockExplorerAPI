@@ -16,4 +16,4 @@ branches:
         - master
 
 script:
-    - php vendor/bin/codecept run
+    - php vendor/bin/codecept run unit
